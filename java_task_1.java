@@ -11,7 +11,7 @@ The first line contains the value of numberOfStudents that describes the total n
 
 import java.util.Scanner;
 
-public class Solution {
+class Solution {
     private static final Scanner INPUT_READER = new Scanner(System.in);
 
     public static void main(String[] args) {
